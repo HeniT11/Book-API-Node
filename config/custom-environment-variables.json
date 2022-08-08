@@ -1,3 +1,4 @@
 {
-    "jwtPrivateKey": "coursely_jwtPrivateKey"
+    "jwtPrivateKey": "coursely_jwtPrivateKey",
+    "db": "coursely_db"
 }
